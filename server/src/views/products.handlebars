@@ -1,0 +1,13 @@
+<section>
+
+  {{>userData}}
+
+  {{#each arrayProducts}}
+    <article>
+      <h2>{{title}}</h2>
+    </article>
+  {{/each}}
+  {{#if isLoggedIn}}
+    {{>logoutBtn}}
+  {{/if}}
+</section>

@@ -1,0 +1,59 @@
+### Registro de usuario
+POST http://localhost:8080/api/sessions/register
+
+{
+    "email": "luka@luka.com",
+    "password": "1234",
+    "first_name": "Luka",
+    "last_name": "Lukic",
+    "age": 21,
+}
+
+### Logueo de usuario
+POST http://localhost:8080/api/sessions/login
+Content-Type: application/json
+
+{
+    "email": "luka@luka.com",
+    "password": "1234"
+}
+
+### Logout de usuario
+POST http://localhost:8080/api/sessions/logout
+
+### Obtener datos de usuario
+GET http://localhost:8080/api/sessions/getuser
+
+### POST de un nuevo producto
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "code": "2335",
+    "title": "Producto 3",
+    "description": "Descripcion del producto 3",
+    "price": 100,
+    "stock": 10,
+    "category": "deporte",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/bus-vehicle-transport-school-128.png"
+}
+
+### Get de todos los usuarios
+GET http://localhost:8080/api/users
+
+### Delete de usuarios inactivos
+DELETE http://localhost:8080/api/users
+
+### Get usuario por id
+GET http://localhost:8080/api/users/64cd6821336d7ea4a49786e5
+
+### Delete usuario por id
+DELETE http://localhost:8080/api/users/64cd6821336d7ea4a49786e5
+
+### Patch de usuario por id
+PATCH http://localhost:8080/api/users/64cd6821336d7ea4a49786e5
+Content-Type: application/json
+
+{
+    "role": "premium"
+}

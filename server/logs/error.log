@@ -1,0 +1,80 @@
+2023-06-15 16:12:39:1239 [31merror[39m: [31mLog de prueba[39m
+2023-06-15 16:12:39:1239 [31mfatal[39m: [31mLog de prueba[39m
+2023-06-19 16:35:15:3515 [31merror[39m: [31mEl worker 21960 murio[39m
+2023-06-19 16:48:59:4859 [31merror[39m: [31mEl worker 22332 murio[39m
+2023-06-19 16:50:08:508 [31merror[39m: [31mEl worker 19744 murio[39m
+2023-06-21 16:17:26:1726 [31merror[39m: [31mEl worker 21952 murio[39m
+2023-06-21 16:18:08:188 [31merror[39m: [31mEl worker 21076 murio[39m
+2023-06-21 16:18:08:188 [31merror[39m: [31mEl worker 21724 murio[39m
+2023-06-21 16:18:08:188 [31merror[39m: [31mEl worker 14820 murio[39m
+2023-06-21 16:18:09:189 [31merror[39m: [31mEl worker 7344 murio[39m
+2023-06-21 16:18:09:189 [31merror[39m: [31mEl worker 19176 murio[39m
+2023-06-21 16:18:09:189 [31merror[39m: [31mEl worker 13240 murio[39m
+2023-06-21 16:18:09:189 [31merror[39m: [31mEl worker 18356 murio[39m
+2023-06-21 16:18:09:189 [31merror[39m: [31mEl worker 11688 murio[39m
+2023-06-21 16:18:09:189 [31merror[39m: [31mEl worker 22512 murio[39m
+2023-06-21 16:18:09:189 [31merror[39m: [31mEl worker 18576 murio[39m
+2023-06-21 16:18:10:1810 [31merror[39m: [31mEl worker 21672 murio[39m
+2023-06-21 16:18:10:1810 [31merror[39m: [31mEl worker 1896 murio[39m
+2023-06-21 16:18:10:1810 [31merror[39m: [31mEl worker 4388 murio[39m
+2023-06-21 16:18:10:1810 [31merror[39m: [31mEl worker 10292 murio[39m
+2023-06-21 16:21:22:2122 [31merror[39m: [31muser does not exist[39m
+2023-06-21 16:23:56:2356 [31merror[39m: [31mServer error[39m
+2023-06-21 16:27:37:2737 [31merror[39m: [31mServer error[39m
+2023-06-21 16:30:19:3019 [31merror[39m: [31mnew password must be different from the old one[39m
+2023-06-21 16:30:56:3056 [31merror[39m: [31mnew password must be different from the old one[39m
+2023-06-21 16:31:00:310 [31merror[39m: [31mnew password must be different from the old one[39m
+2023-06-21 16:31:15:3115 [31merror[39m: [31mnew password must be different from the old one[39m
+2023-06-21 16:31:42:3142 [31merror[39m: [31mnew password must be different from the old one[39m
+2023-06-21 16:33:16:3316 [31merror[39m: [31mnew password must be different from the old one[39m
+2023-06-21 16:34:37:3437 [31merror[39m: [31mnew password must be different from the old one[39m
+2023-06-21 16:35:10:3510 [31merror[39m: [31mnew password must be different from the old one[39m
+2023-06-21 16:35:47:3547 [31merror[39m: [31mError sending changed password email to diego@diego.com: ReferenceError: transporter is not defined[39m
+2023-06-21 16:38:06:386 [31merror[39m: [31mEl worker 22568 murio[39m
+2023-06-21 16:38:10:3810 [31merror[39m: [31muser does not exist[39m
+2023-06-21 16:39:38:3938 [31merror[39m: [31muser does not exist[39m
+2023-06-21 16:39:55:3955 [31merror[39m: [31mnew password must be different from the old one[39m
+2023-06-21 16:40:39:4039 [31merror[39m: [31mEl worker 12632 murio[39m
+2023-06-21 16:43:56:4356 [31merror[39m: [31mpasswords must be different[39m
+2023-06-21 16:44:15:4415 [31merror[39m: [31mpasswords must be different[39m
+2023-06-21 16:44:30:4430 [31merror[39m: [31mpasswords must be different[39m
+2023-06-21 16:44:50:4450 [31merror[39m: [31mEl worker 20568 murio[39m
+2023-06-21 16:44:56:4456 [31merror[39m: [31mpasswords must be different[39m
+2023-06-21 16:45:05:455 [31merror[39m: [31mpasswords must be different[39m
+2023-06-21 16:45:13:4513 [31merror[39m: [31mpasswords must be different[39m
+2023-06-21 16:45:17:4517 [31merror[39m: [31mpasswords must be different[39m
+2023-06-21 16:45:33:4533 [31merror[39m: [31mpasswords must be different[39m
+2023-06-21 16:46:19:4619 [31merror[39m: [31muser does not exist[39m
+2023-06-21 16:46:40:4640 [31merror[39m: [31mEl worker 10060 murio[39m
+2023-06-21 16:47:09:479 [31merror[39m: [31mEl worker 22660 murio[39m
+2023-06-21 22:38:47:3847 [31merror[39m: [31mnew password must be different from the old one[39m
+2023-06-21 22:38:53:3853 [31merror[39m: [31mnew password must be different from the old one[39m
+2023-06-21 22:39:09:399 [31merror[39m: [31muser does not exist[39m
+2023-06-21 22:39:46:3946 [31merror[39m: [31mToken is invalid[39m
+2023-06-23 16:08:51:851 [31merror[39m: [31mnew password must be different from the old one[39m
+2023-06-23 16:08:58:858 [31merror[39m: [31mnew password must be different from the old one[39m
+2023-06-23 16:09:12:912 [31merror[39m: [31mToken is invalid[39m
+2023-06-23 16:09:18:918 [31merror[39m: [31mToken is invalid[39m
+2023-06-23 16:18:59:1859 [31merror[39m: [31mEl worker 22912 murio[39m
+2023-06-23 16:23:29:2329 [31merror[39m: [31mEl worker 9808 murio[39m
+2023-06-23 16:30:33:3033 [31merror[39m: [31mEl worker 4392 murio[39m
+2023-06-23 16:35:56:3556 [31merror[39m: [31mEl worker 11676 murio[39m
+2023-06-23 16:35:59:3559 [31merror[39m: [31mEl worker 3744 murio[39m
+2023-06-23 16:35:59:3559 [31merror[39m: [31mEl worker 21640 murio[39m
+2023-06-23 16:35:59:3559 [31merror[39m: [31mEl worker 22152 murio[39m
+2023-06-23 16:36:01:361 [31merror[39m: [31mEl worker 11388 murio[39m
+2023-06-23 16:36:01:361 [31merror[39m: [31mEl worker 4836 murio[39m
+2023-06-23 16:36:01:361 [31merror[39m: [31mEl worker 7336 murio[39m
+2023-06-23 16:36:01:361 [31merror[39m: [31mEl worker 21852 murio[39m
+2023-06-23 16:36:01:361 [31merror[39m: [31mEl worker 4564 murio[39m
+2023-06-23 16:36:01:361 [31merror[39m: [31mEl worker 11424 murio[39m
+2023-06-23 16:42:14:4214 [31merror[39m: [31mEl worker 8232 murio[39m
+2023-06-23 16:47:00:470 [31merror[39m: [31mEl worker 11992 murio[39m
+2023-06-26 16:51:43:5143 [31merror[39m: [31mToken is invalid[39m
+2023-06-26 16:52:04:524 [31merror[39m: [31mToken is invalid[39m
+2023-06-26 16:52:36:5236 [31merror[39m: [31mToken is invalid[39m
+2023-07-03 16:51:59:5159 [31merror[39m: [31mEl worker 14924 murio[39m
+2023-07-03 16:57:07:577 [31merror[39m: [31mEl worker 2924 murio[39m
+2023-07-03 16:57:29:5729 [31merror[39m: [31mEl worker 10736 murio[39m
+2023-07-05 16:54:16:5416 [31merror[39m: [31mEl worker 12304 murio[39m
+2023-07-05 19:36:13:3613 [31merror[39m: [31mEl worker 20944 murio[39m
