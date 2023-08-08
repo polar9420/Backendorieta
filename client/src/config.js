@@ -1,7 +1,7 @@
 import axios from "axios"
 
 const axiosInstance = axios.create({
-  baseURL: import.meta.env.API_URL,
+  baseURL: "https://coderbackend-livy.onrender.com/api",
   headers: {
     "Content-type": "application/json",
   },

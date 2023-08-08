@@ -24,12 +24,19 @@ import { updateLastActive } from "./middlewares/tracking.js"
 // Crear servidor express
 const app = express()
 
+const AllowedCorsOrigins = [
+  "http://localhost:3000",
+  "http://localhost:5173",
+  "http://localhost:4173",
+  "https://backendorieta-n0ya5je7b-polar9420.vercel.app",
+]
+
 //middlewares
 app.use(express.json())
 app.use(cookieParser())
 app.use(
   cors({
-    origin: "*",
+    origin: AllowedCorsOrigins,
     credentials: true,
     methods: ["GET", "POST", "PUT", "DELETE", "PATCH"],
   })
