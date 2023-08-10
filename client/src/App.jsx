@@ -44,8 +44,7 @@ function App() {
                 </Route>
                 <Route
                   element={
-                    <AuthenticatedRoute role={["admin", "superadmin"]} />
-                  }
+                    <AuthenticatedRoute role={["admin", "superadmin"]} />}
                 >
                   <Route path="/admin" element={<AdminPage />} />
                 </Route>
