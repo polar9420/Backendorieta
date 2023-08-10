@@ -13,7 +13,7 @@ const CartPage = () => {
     if (order) {
       navigate("/checkout", { state: { order } })
     } else {
-      alert("No se pudo realizar la compra")
+      alert("No se pudo realizar la compra!")
     }
     setIsLoading(false)
   }
