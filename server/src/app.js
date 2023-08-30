@@ -54,6 +54,10 @@ app.use(
     secret: SESSION_SECRET,
     resave: true,
     saveUninitialized: false,
+    cookie: {
+      secure: true,
+      sameSite: "none"
+    }
   })
 )
 initializePassport()
