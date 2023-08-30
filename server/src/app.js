@@ -28,7 +28,7 @@ const AllowedCorsOrigins = [
   "http://localhost:3000",
   "http://localhost:5173",
   "http://localhost:4173",
-  "https://backendorieta-n0ya5je7b-polar9420.vercel.app",
+  "https://backendorieta.vercel.app",
 ]
 
 //middlewares
@@ -54,6 +54,10 @@ app.use(
     secret: SESSION_SECRET,
     resave: true,
     saveUninitialized: false,
+    cookie: {
+      secure: true,
+      sameSite: "none"
+    }
   })
 )
 initializePassport()

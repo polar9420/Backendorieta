@@ -7,6 +7,8 @@ export async function updateLastActive(req, res, next) {
   if (req.isAuthenticated()) {
     res.cookie("lastActive", Date.now(), {
       httpOnly: true,
+      secure: true,
+      sameSite: "none"
     })
 
     await UserModel.updateOne(
